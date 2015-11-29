@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/wazery/norby/badges/gpa.svg)](https://codeclimate.com/github/wazery/norby)
+
 # Norby
 
 This is a simple CLI program that is a simulation of a simple toy robot moving on a square tabletop, of dimensions 5 units x 5 units.
