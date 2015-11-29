@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/wazery/norby.svg?style=flat-square)](https://travis-ci.org/wazery/norby)
 [![Code Climate](https://codeclimate.com/github/wazery/norby/badges/gpa.svg)](https://codeclimate.com/github/wazery/norby)
 
 # Norby
